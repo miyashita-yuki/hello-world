@@ -12,4 +12,4 @@
   <img width="300" height="300" alt="Hello World 配图" src="https://github.com/user-attachments/assets/c0dc839c-708b-4489-921d-800bcd807bc3" />
 </p>
 ---
-*—— 写于 2026.07.18，西安*
+—— 写于 2026.07.18，西安 by yuki*
